@@ -6171,6 +6171,13 @@ h6 {
   background-size: cover;
 }
 
+.breadcmb_bg {
+  background-image: url("../img/15.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* line 5, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_breadcrumb.scss */
 .breadcrumb {
   position: relative;
