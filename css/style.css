@@ -6171,6 +6171,13 @@ h6 {
   background-size: cover;
 }
 
+.bcrumb_bg {
+  background-image: url("../img/19.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .breadcmb_bg {
   background-image: url("../img/15.jpeg");
   background-position: center;
